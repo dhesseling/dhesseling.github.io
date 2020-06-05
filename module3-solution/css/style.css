@@ -1,0 +1,21 @@
+  .row-content {
+    background-color: rgb(190,190,190);
+    margin:10px;
+  }
+  
+
+.navbar-dark {
+    background-color: grey;
+
+}
+
+li{
+      background-color: rgb(199,199,199);
+      border:black solid 1px;
+      padding:10px;
+}
+
+p{
+  padding:5px;
+}
+
